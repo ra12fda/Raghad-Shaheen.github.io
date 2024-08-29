@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagetest</title>
+    <link rel="stylesheet" href="mcss.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    
+ <div class="menu">
+    <ul>
+        <li class="pro-file">
+           <div class="img-box">
+         <img src="../mik.jpg" alt="Raghad Shaheen">
+            
+           </div>
+           <h1>raghad <br> Shaheen</h1>
+        </li>
+
+        <li>
+            <a href="">
+                <i class="fas fa-home"></i>
+                <p>Home</p>
+            
+        </a>
+    </li>
+ 
+    <li>
+        <a href="">
+            <i class="fas fa-table"></i>
+            <p>Timetable</p>
+        
+    </a>
+</li>
+
+<li>
+    <a href="">
+        <i class="fas fa-pen"></i>
+        <p>My blog</p>
+    
+</a>
+</li>
+
+<li>
+    <a href="">
+        <i class="fas fa-chart-pie"></i>
+        <p>Courses</p>
+    
+</a>
+</li>
+
+<li>
+    <a href="">
+        <i class="fas fa-heart"></i>
+        <p>Favorite</p>
+    
+</a>
+</li>
+
+<li>
+    <a href="">
+        <i class="fas fa-cog"></i>
+        <p>settings</p>
+    
+</a>
+</li>
+
+
+<li class="log-out">
+    <a href="">
+        <i class="fas fa-sign-out"></i>
+        <p>Log out</p>
+    
+</a>
+</li>
+        
+    </ul>
+ </div>
+ <div class="flex2">
+ 
+      <div class="into">
+         <a href="">
+            Introduction
+             <i class="fas fa-star"></i></a> 
+       
+      </div>
+  
+      <div class="container">
+
+       <a href="">
+     <span>My Notes</span> 
+     <i class="fas fa-pen"></i>  
+       </a> 
+
+       <a href="">
+        <span>Community</span> 
+        <i class="fas fa-user-group"></i>  
+          </a> 
+          <a href="">
+            <span>My lessons</span> 
+            <i class="fas fa-table"></i>  
+              </a> 
+              <a href="">
+                <span> My Posts </span> 
+                <i class="fas fa-user"></i>  
+                  </a> 
+       
+ <div class="secbar">
+    Your Lessons
+ </div>
+
+      </div>
+
+ 
+ 
+</div>
+</body>
+</html>
